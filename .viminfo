@@ -25,11 +25,21 @@ $
 # Registers:
 
 # File marks:
-'0  1  0  ~/.git/cs1.txt
-'1  1  0  ~/.gitconfig
-'2  1  0  ~/git
+'0  3  15  ~/van
+'1  1  0  ~/.git/cs1.txt
+'2  1  0  ~/.gitconfig
+'3  1  0  ~/git
 
 # Jumplist (newest first):
+-'  3  15  ~/van
+-'  1  0  ~/van
+-'  1  0  ~/.git/cs1.txt
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/git
+-'  1  0  ~/git
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/git
+-'  1  0  ~/git
 -'  1  0  ~/.git/cs1.txt
 -'  1  0  ~/.gitconfig
 -'  1  0  ~/git
@@ -39,6 +49,12 @@ $
 -'  1  0  ~/git
 
 # History of marks within files (newest to oldest):
+
+> ~/van
+	"	3	15
+	^	3	16
+	.	3	15
+	+	3	15
 
 > ~/.git/cs1.txt
 	"	1	0

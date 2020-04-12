@@ -158,3 +158,29 @@ ssh-keygen
 ./ssh
 ls
 git statuiit s
+git status
+ssh-keygen
+pwd
+ssh-copy-id -i ~/.ssh/id_rsa.pub rc.senthil@gmail.com
+echo 'TODO: Add contents for README' > README
+git add.
+git ad .
+git add .
+git status 
+git commit -m 
+git commit --a
+git commit -m 'Initial commit'
+git log
+git remote add origin rc.senthil@gmail.com:HCL-2019
+git remote add origin rc.senthil@gmail.com:HCL-2019.git
+git remote add origin rc.senthil@gmail.com
+git status
+ssh-keygen
+pwd
+cd .ssh/
+ls -lrt
+cat id_rsa.pub 
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDf2VZHFvJ6y+guN/9qStCd5ZfVp+q3n7jquk04iqvLMIa0H59GxVp4C2dUDc3NMnSX4FIOpGHTXYm7P/F6gwZ29bSJt8y0q6NnqDahFTK6AFNgIphrBpP7TwCb5xbGBx0LiRr40Dn8E9ui5CvNI0x+gZd6xAeMqsmg81DZJwt1YbAWuW2gAuIXR5MN8W4ugqZuvfmfnioJHNwClsXesheSAMWATpuVfACWj9ZFyz02n1bWGm9j6eukmv+RGP8rUNYHxN4nRD/eogPNMLpMes7Y6VA81kzD451KNtC3oUTvSSW2wcoUCFr18QBw9aBwaz/cyiveIMgOWM407rJVUQrh centos@ip-172-31-84-164.ec2.internal
+clear
+git remote-v
+git remote -v
